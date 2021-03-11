@@ -20,6 +20,10 @@ CHANGED REPLICATION FACTOR FROM 2 to 3, USING JSON FILE
 ![image](https://user-images.githubusercontent.com/59425078/110693753-73ced100-81f0-11eb-9540-a2879a263c94.png)
 ![image](https://user-images.githubusercontent.com/59425078/110693775-7a5d4880-81f0-11eb-989a-9c65edff94cd.png)
 
+5 - Produced messages from file  
+![image](https://user-images.githubusercontent.com/59425078/110764919-491a6200-825c-11eb-9ca0-db6c97bd4027.png)
+![image](https://user-images.githubusercontent.com/59425078/110766086-7d425280-825d-11eb-98af-61fac7b8ebff.png)
+
 
 
 
