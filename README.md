@@ -15,6 +15,8 @@ KAFKA TESTING REPOSITORY
 CHANGED REPLICATION FACTOR FROM 2 to 3, USING JSON FILE  
 ![image](https://user-images.githubusercontent.com/59425078/110693024-aa581c00-81ef-11eb-813e-a98d1a0a295e.png)
 ![image](https://user-images.githubusercontent.com/59425078/110693229-e3908c00-81ef-11eb-8da2-35f5b3c2791e.png)
+![image](https://user-images.githubusercontent.com/59425078/110919550-0c666d80-8325-11eb-988d-3b0f095cf8f6.png)
+
 
 4 - REMOVED FIRST TOPIC  
 ![image](https://user-images.githubusercontent.com/59425078/110693753-73ced100-81f0-11eb-9540-a2879a263c94.png)
@@ -25,6 +27,15 @@ CHANGED REPLICATION FACTOR FROM 2 to 3, USING JSON FILE
 ![image](https://user-images.githubusercontent.com/59425078/110766086-7d425280-825d-11eb-98af-61fac7b8ebff.png)
 
 
+
+
+
+
+
+7 - READ FIRST 10 messages 
+![image](https://user-images.githubusercontent.com/59425078/110915968-f6ef4480-8320-11eb-9050-015120d60bdb.png)
+
+8 - READ LAST 20 messages
 
 
 
